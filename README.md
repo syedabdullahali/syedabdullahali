@@ -1,5 +1,3 @@
-<a href="https://syedabdullahali.github.io/name-animation/" target="__blank">Visit W3Schools.com!</a>
-
 
 
 
