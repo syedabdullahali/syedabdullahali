@@ -1,11 +1,9 @@
-<div>
- <img align='right' width='300' src='https://firebasestorage.googleapis.com/v0/b/general-storage-f8db8.appspot.com/o/blog-banner(22).jpg?alt=media&token=05efdc76-4625-4246-afd9-33a2435a7c71' />      
-</div>
 
 <h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
 <img align='right' width='200' src='https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif' />
+<img align='right' width='200' src='https://firebasestorage.googleapis.com/v0/b/general-storage-f8db8.appspot.com/o/blog-banner(22).jpg?alt=media&token=05efdc76-4625-4246-afd9-33a2435a7c71' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahali&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahali" /> </p>
 
