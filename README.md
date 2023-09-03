@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Syed Abdullah Ali</h1>
 <h3>About Me</h3>
 <p>
-A Full Stack Developer with one year of professional experience. My expertise lies in a wide range of web development technologies, including JavaScript, React.js, Node.js, Express, MongoDB, HTML, and CSS. I have a proven track record of excelling both in collaborative team environments and as an independent contributor.
+A Full Stack Developer with  professional experience. My expertise lies in a wide range of web development technologies, including JavaScript, React.js, Node.js, Express, MongoDB, HTML, and CSS. I have a proven track record of excelling both in collaborative team environments and as an independent contributor.
 
 I am committed to delivering high-quality solutions and staying up-to-date with the latest industry trends and best practices
 </p>  
