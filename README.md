@@ -1,11 +1,23 @@
+<h1 >Hi 👋, I'm Syed Abdullah Ali</h1>
+<h3>About Me</h3>
+<p>
+A Full Stack Developer with one year of professional experience. My expertise lies in a wide range of web development technologies, including JavaScript, React.js, Node.js, Express, MongoDB, HTML, and CSS. I have a proven track record of excelling both in collaborative team environments and as an independent contributor.
 
-<h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>
+Throughout my career, I have had the opportunity to work on diverse projects for various clients. These projects include:
+
+Static Websites: I have successfully created static websites using a combination of HTML and CSS, often leveraging popular CSS libraries like Bootstrap, Tailwind CSS, and CoreUI to enhance the user experience.
+
+Functional Websites: My skill set extends to building functional websites powered by technologies such as React, React Router, Node.js, Express, MongoDB, and WebSocket for real-time communication.
+
+I am committed to delivering high-quality solutions and staying up-to-date with the latest industry trends and best practices
+</p>  
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
 <img align='right' width='300' src='https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif' />
 <img align='right' width='300' src='https://firebasestorage.googleapis.com/v0/b/general-storage-f8db8.appspot.com/o/blog-banner(22).jpg?alt=media&token=05efdc76-4625-4246-afd9-33a2435a7c71' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahali&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahali" /> </p>
+
 
 
 - 🔭 I’m currently working on **ERP System**
