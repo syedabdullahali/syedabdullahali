@@ -16,7 +16,7 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 
 - 🔭 I’m currently working on **ERP System**
 
-- 🌱 I’m currently learning **Node.js Ts**
+- 🌱 I’m currently learning **Node.js and Ts**
 
 - 📫 How to reach me **syedabdullahali380@gmail.com**
 
