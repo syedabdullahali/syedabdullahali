@@ -3,12 +3,6 @@
 <p>
 A Full Stack Developer with one year of professional experience. My expertise lies in a wide range of web development technologies, including JavaScript, React.js, Node.js, Express, MongoDB, HTML, and CSS. I have a proven track record of excelling both in collaborative team environments and as an independent contributor.
 
-Throughout my career, I have had the opportunity to work on diverse projects for various clients. These projects include:
-
-Static Websites: I have successfully created static websites using a combination of HTML and CSS, often leveraging popular CSS libraries like Bootstrap, Tailwind CSS, and CoreUI to enhance the user experience.
-
-Functional Websites: My skill set extends to building functional websites powered by technologies such as React, React Router, Node.js, Express, MongoDB, and WebSocket for real-time communication.
-
 I am committed to delivering high-quality solutions and staying up-to-date with the latest industry trends and best practices
 </p>  
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
