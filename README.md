@@ -43,5 +43,3 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedabdullahali" alt="syedabdullahali" /></a> </p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/syedabdullahali/syedabdullahali/blob/output/github-contribution-grid-snake.svg)
