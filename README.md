@@ -38,3 +38,10 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 
 
 
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=syedabdullahali&show_icons=true&locale=en" alt="syedabdullahali" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdullahali&" alt="syedabdullahali" />
+</p>
+
+
+
+
