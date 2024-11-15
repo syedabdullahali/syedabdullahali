@@ -38,7 +38,7 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 
 
 <p>&nbsp;<img width="400"  align="center" src="https://github-readme-stats.vercel.app/api?username=syedabdullahali&show_icons=true&locale=en" alt="syedabdullahali" />
-<img  width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdullahali&" alt="syedabdullahali" />
+<img  width="430" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdullahali&" alt="syedabdullahali" />
 </p>
 
 
