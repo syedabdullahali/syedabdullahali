@@ -11,11 +11,6 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahali&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahali" /> </p>
 
-
-- 🔭 I’m currently working on **ERP System**
-
-- 🌱 I’m currently learning **Node.js and Ts**
-
 - 📫 How to reach me **syedabdullahali380@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
