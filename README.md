@@ -7,7 +7,7 @@ I am committed to delivering high-quality solutions and staying up-to-date with 
 </p>  
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
-<img align='right'  width='400' src='https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif' />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahali&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahali" /> </p>
 
