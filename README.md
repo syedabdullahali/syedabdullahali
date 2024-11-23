@@ -1,9 +1,15 @@
 <h1 >Hi 👋, I'm Syed Abdullah Ali</h1>
 <h3>About Me</h3>
 <p>
-A Full Stack Developer with  professional experience. My expertise lies in a wide range of web development technologies, including JavaScript, React.js, Node.js, Express, MongoDB, HTML, and CSS. I have a proven track record of excelling both in collaborative team environments and as an independent contributor.
-  
-I am committed to delivering high-quality solutions and staying up-to-date with the latest industry trends and best practices
+I am a results-driven Full Stack Developer and Team
+Lead with over 2 years of experience in web
+development. I excel in developing robust web
+applications and leading cross-functional teams. My
+strong project management skills ensure high-quality
+delivery, with a focus on optimizing processes and
+maintaining excellent client relationships. I am
+passionate about enhancing user experiences and
+fostering collaboration to drive growth.
 </p>  
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
