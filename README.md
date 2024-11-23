@@ -11,8 +11,6 @@ maintaining excellent client relationships. I am
 passionate about enhancing user experiences and
 fostering collaboration to drive growth.
 </p>  
-<h3 align="center">A passionate Mern Stack Developer from India</h3>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahali&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahali" /> </p>
