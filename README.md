@@ -8,7 +8,6 @@ As a Full Stack Developer and Team Lead with over 2 years of experience in web d
 - 📫 How to reach me **syedabdullahali380@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://codepen.io/@syedabdullahali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@syedabdullahali" height="30" width="40" /></a>
 <a href="https://dev.to/syedabdullahali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syedabdullahali" height="30" width="40" /></a>
