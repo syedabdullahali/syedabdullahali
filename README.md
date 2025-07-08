@@ -82,7 +82,7 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+
 -->
 ### 🧠 Tech Stack
 
-| Category            | Technologies                                                                 |
+<!--| Category            | Technologies                                                                 |
 |---------------------|------------------------------------------------------------------------------|
 | **Languages**        | JavaScript, TypeScript, Python, SQL                                          |
 | **Frontend**         | Next.js, React.js, Redux, Tailwind CSS, Material UI, HTML5, CSS3, EJS        |
@@ -94,7 +94,24 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+
 | **Package Managers** | npm, Yarn                                                                    |
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
+-->
+### 🧠 Tech Stack
 
----
+### 🧠 Tech Stack
+
+| **Category**      | **Tech Stack** |
+|-------------------|----------------|
+| **Languages**     | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **Frontend**      | ![](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white) |
+| **Backend**       | ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![](https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&logoColor=white) |
+| **Real-Time**     | ![](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white) ![](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white) |
+| **Databases**     | ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
+| **Architecture**  | ![](https://img.shields.io/badge/-Microservices-FF6F00?logo=microgen&logoColor=white) |
+| **DevOps**        | ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white) ![](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white) |
+| **Package Managers** | ![](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) ![](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) |
+| **Deployment**    | ![](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white) ![](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) ![](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
+| **Tools**         | ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) |
+
+
 
 > 💡 *“Clean code, strong architecture, and great teamwork — the foundation of every successful product.”*
