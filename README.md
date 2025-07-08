@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>
+<!--<h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>-->
 <h3 align="center">🚀 Full Stack Engineer | Team Lead | Microservices Enthusiast</h3>
 
 <p align="center">
