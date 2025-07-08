@@ -14,7 +14,7 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6 
 🔹 Specialized in **Node.js**, **Next.js**, **MongoDB**, and **Redis**  
 🔹 Experience designing and deploying **microservices** with **Docker**, **Kubernetes**, and **CI/CD** pipelines  
 🔹 Skilled in **real-time communication** using **Socket.IO**  
-🔹 Strong in backend & API architecture (REST & GraphQL)  
+🔹 Strong in backend & API architecture (REST & websocket)  
 🔹 Passionate about clean code, team leadership, and delivering impact
 
 ---
@@ -94,11 +94,6 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6 
 | **Package Managers** | npm, Yarn                                                                    |
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedabdullahali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
