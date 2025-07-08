@@ -90,7 +90,7 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+
 | **Real-Time & Streaming** | Socket.IO, WebSockets, WebRTC                                             |
 | **Databases**        | MongoDB, MySQL, Redis, Elasticsearch (ES2)                                   |
 | **Architecture**     | Microservices Architecture                                                   |
-| **DevOps**           | Docker, Kubernetes, PM2, CI/CD, NGINX,Certbot                                        |
+| **DevOps**           | Docker, Kubernetes, PM2, CI/CD, NGINX, Certbot                                        |
 | **Package Managers** | npm, Yarn                                                                    |
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
