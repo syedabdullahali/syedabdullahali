@@ -80,7 +80,6 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 -->
-### 🧠 Tech Stack
 
 <!--| Category            | Technologies                                                                 |
 |---------------------|------------------------------------------------------------------------------|
@@ -95,8 +94,6 @@ I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
 -->
-### 🧠 Tech Stack
-
 ### 🧠 Tech Stack
 
 | **Category**      | **Tech Stack** |
