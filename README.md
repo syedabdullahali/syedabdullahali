@@ -7,7 +7,7 @@
 
 I'm a results-driven **Full Stack Developer** and **Tech Lead** with over **2.6+ years** of experience building high-performance, scalable web applications using modern technologies and microservices architecture.
 
-🔹 Specialized in **Node.js**, **Next.js**,**React.js**, **MongoDB**, and **Redis**  
+🔹 Specialized in **Node.js**, **Next.js**, **React.js**, **MongoDB**, and **Redis**  
 🔹 Experience designing and deploying **microservices** with **Docker**, **Kubernetes**, and **CI/CD** pipelines  
 🔹 Skilled in **real-time communication** using **Socket.IO**  
 🔹 Strong in backend & API architecture (REST & websocket)  
