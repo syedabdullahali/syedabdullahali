@@ -94,9 +94,9 @@ I'm a results-driven **Full Stack Engineer** and **Tech Lead** with over **2.6+ 
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
 -->
-<!--### 🧠 Tech Stack
+ ### 🧠 Tech Stack
 
-| **Category**      | **Tech Stack** |-->
+| **Category**      | **Tech Stack** |
 |-------------------|----------------|
 | **Languages**     | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
 | **Frontend**      | ![](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white) |
