@@ -11,8 +11,11 @@ I'm a results-driven **Full Stack Engineer** and **Tech Lead** with over **2.6+ 
 🔹 Experience designing and deploying **microservices** with **Docker**, **Kubernetes**, and **CI/CD** pipelines  
 🔹 Skilled in **real-time communication** using **Socket.IO**  
 🔹 Strong in backend & API architecture (REST & websocket)  
-🔹 **Creator of [StrivUI](https://www.npmjs.com/package/strivui)** — Tailwind-style UI library for React.js, compatible with SSR, SSG, and CSR
+🔹 Passionate about clean code, team leadership, and delivering impact  
+🔹 Creator of [StrivUI](https://www.npmjs.com/package/strivui) — Tailwind-style UI library for React.js, compatible with SSR, SSG, and CSR
+
 ---
+
 
 ### 📫 Contact Me
 
