@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a results-driven **Full Stack Engineer** and **Tech Lead** with over **4+ years** ( Tech Lead with 2 years 9 months of professional full-time experience and 1 years 5 months of part-time internship experience gained during my academic years ) of experience building high-performance, scalable web applications using modern technologies and microservices architecture.
+I'm a results-driven **Full Stack Engineer** and **Tech Lead** with over **4+ years** ( Tech Lead with 2 years 9 months of professional full-time experience and 2 years part-time internship experience gained during my academic years ) of experience building high-performance, scalable web applications using modern technologies and microservices architecture.
 
 🔹 Specialized in Node.js, Next.js, React.js, MongoDB, and Redis  
 🔹 Experience designing and deploying **microservices** with **Docker**, **Kubernetes**, and **CI/CD** pipelines  
