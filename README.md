@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>-->
-<h3 align="center">  Senior Software Engineer | Full Stack Engineer | Team Lead | Microservices & Scalable Systems Enthusiast
+<h3 align="center">  Senior Software Engineer | Full Stack Engineer | Team Lead | Scalable Systems Enthusiast
 
 ---
 
