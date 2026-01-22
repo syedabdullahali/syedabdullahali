@@ -112,3 +112,4 @@ I'm a results-driven **Full Stack Engineer** and **Tech Lead** with  **5 years**
 
 
 > 💡 *“Clean code, strong architecture, and great teamwork — the foundation of every successful product.”*
+<p><a href="https://www.buymeacoffee.com/p4ootegvfl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="p4ootegvfl" /></a></p><br><br>
