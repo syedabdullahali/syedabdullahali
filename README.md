@@ -12,7 +12,7 @@ I'm a results-driven **Full Stack Engineer** and **Tech Lead** with  **5 years**
 🔹 Skilled in **real-time communication** using **Socket.IO**  
 🔹 Strong in backend & API architecture (REST & websocket)  
 🔹 Passionate about clean code, team leadership, and delivering impact  
-🔹 Creator of [StrivUI](https://www.npmjs.com/package/strivui) — Style UI library for React.js, compatible with SSR, SSG, and CSR 🚀 2000+ downloads
+🔹 Creator of [StrivUI](https://www.npmjs.com/package/strivui) — Style UI library for React.js, compatible with SSR, SSG, and CSR 🚀 4000+ downloads
 
 ---
 
