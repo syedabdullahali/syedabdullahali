@@ -102,3 +102,66 @@ Lead engineering teams through architecture reviews, technical planning, code re
 | **Cloud & Deployment** | Heroku, Vercel, OnRender, Firebase, Netlify                               |
 | **Tools**            | Git, GitHub, GitLab, Postman, VS Code, Jira, Trello, Notion                  |
 -->
+# Technical Expertise
+
+## 01 · Programming
+
+| **Core**                             | **Engineering**                                                                    |
+| ------------------------------------ | ---------------------------------------------------------------------------------- |
+| JavaScript · TypeScript · Python · C | OOP · Async Programming · Concurrency · Data Structures · Algorithms · Performance |
+
+---
+
+## 02 · Frontend Engineering
+
+| **Core**                                    | **Ecosystem**                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------- |
+| React · Next.js · React Native · TypeScript | Redux Toolkit · RTK Query · React Query · Tailwind CSS · StrivUI |
+
+---
+
+## 03 · Backend Engineering
+
+| **Core**                                        | **API & Security**                            |
+| ----------------------------------------------- | --------------------------------------------- |
+| Django · FastAPI · Flask · Node.js · Express.js | REST APIs · GraphQL · JWT · RBAC · API Design |
+
+---
+
+## 04 · Data & Databases
+
+| **Core**                                        | **Engineering**                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------- |
+| PostgreSQL · MongoDB · MySQL · Redis · Firebase | Data Modeling · Query Optimization · Indexing · Transactions · Caching |
+
+---
+
+## 05 · System Design & Architecture
+
+| **Architecture**                                                | **Engineering**                                                                               |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Microservices · Distributed Systems · Event-Driven Architecture | Clean Architecture · SOLID · Design Patterns · Scalability · Fault Tolerance · Message Queues |
+
+---
+
+## 06 · AI Engineering
+
+| **Core**                | **AI Systems**                                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| LLMs · OpenAI · PyTorch | LangChain · LangGraph · RAG · Embeddings · Vector Databases · AI Agents · Model Inference |
+
+---
+
+## 07 · Cloud & DevOps
+
+| **Infrastructure**                             | **Delivery**                                           |
+| ---------------------------------------------- | ------------------------------------------------------ |
+| AWS · Docker · Kubernetes · Nginx · Cloudflare | GitHub Actions · CI/CD · PM2 · Monitoring · Deployment |
+
+---
+
+## 08 · Real-Time Systems
+
+| **Core**                                 | **Engineering**                                                                |
+| ---------------------------------------- | ------------------------------------------------------------------------------ |
+| WebRTC · WebSockets · Socket.io · Pusher | Streaming · Signaling · Real-Time Synchronization · Event-Driven Communication |
