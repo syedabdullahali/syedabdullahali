@@ -104,123 +104,73 @@ Lead engineering teams through architecture reviews, technical planning, code re
 -->
 # Technical Expertise
 
-> Engineering scalable products, intelligent systems, and production-ready software across the full technology stack.
+> Senior Software Engineer focused on building scalable products, reliable systems, and maintainable software architecture.
 
 ---
 
-## 01 · Programming Languages
+## 01 · Programming
 
-### Engineering Foundations
+Strong engineering fundamentals with a focus on clean, efficient, and maintainable code.
 
-Developing robust software with modern languages, strong programming principles, and performance-focused engineering practices.
-
-**Languages:** `JavaScript` `TypeScript` `Python` `C`
-
-**Core Expertise:** `OOP` `Async Programming` `Concurrency` `Memory Management` `Data Structures` `Algorithms` `Performance Optimization` `Profiling`
-
-**View Occupation →**
+**JavaScript · TypeScript · Python · C · OOP · Async Programming · Concurrency · Data Structures · Algorithms · Performance**
 
 ---
 
 ## 02 · Frontend Engineering
 
-### Modern Interface Architecture
+Designing scalable frontend architectures and high-quality user experiences.
 
-Building scalable, responsive, and maintainable interfaces with component-driven architecture and modern React ecosystems.
-
-**Core:** `React` `Next.js` `React Native` `TypeScript`
-
-**Ecosystem:** `Redux Toolkit` `RTK Query` `React Query` `Tailwind CSS` `StrivUI` `Responsive Design` `Component Architecture`
-
-**View Occupation →**
+**React · Next.js · React Native · TypeScript · Redux Toolkit · RTK Query · React Query · Tailwind CSS · StrivUI**
 
 ---
 
 ## 03 · Backend Engineering
 
-### Scalable Application Services
+Building secure, modular, and high-performance services for enterprise and SaaS applications.
 
-Designing secure, modular, and high-performance backend systems for enterprise applications, SaaS platforms, and APIs.
-
-**Core:** `Django` `FastAPI` `Flask` `Node.js` `Express.js`
-
-**API & Security:** `REST APIs` `GraphQL` `JWT` `RBAC` `Authentication` `Authorization` `API Architecture` `Middleware`
-
-**View Occupation →**
+**Django · FastAPI · Flask · Node.js · Express.js · REST APIs · GraphQL · JWT · RBAC · API Design**
 
 ---
 
-## 04 · Databases & Data Engineering
+## 04 · Data & Databases
 
-### Data Architecture
+Designing reliable data systems with a focus on performance, consistency, and scalability.
 
-Designing reliable data layers with optimized storage, querying, indexing, and caching strategies.
-
-**Databases:** `PostgreSQL` `MongoDB` `MySQL` `Redis` `Firebase`
-
-**Data Engineering:** `SQL` `Indexing` `Query Optimization` `Aggregation` `Transactions` `Replication` `Caching` `Data Modeling`
-
-**View Occupation →**
+**PostgreSQL · MongoDB · MySQL · Redis · Firebase · Data Modeling · Query Optimization · Indexing · Transactions · Caching**
 
 ---
 
 ## 05 · System Design & Architecture
 
-### Enterprise Architecture
+Architecting systems that remain reliable and maintainable as products and teams scale.
 
-Architecting scalable systems with a focus on maintainability, reliability, performance, and long-term evolution.
-
-**Architecture:** `Microservices` `Distributed Systems` `Event-Driven Architecture`
-
-**Engineering Principles:** `Clean Architecture` `SOLID` `Design Patterns` `Scalability` `Fault Tolerance` `Load Balancing` `Caching` `Message Queues`
-
-**View Occupation →**
+**Microservices · Distributed Systems · Event-Driven Architecture · Clean Architecture · SOLID · Design Patterns · Scalability · Fault Tolerance · Message Queues**
 
 ---
 
-## 06 · AI & Machine Learning
+## 06 · AI Engineering
 
-### Intelligent Systems
+Integrating modern AI capabilities into production applications and intelligent workflows.
 
-Building AI-powered applications using modern LLM architectures, retrieval systems, machine learning frameworks, and autonomous workflows.
-
-**Core:** `OpenAI` `PyTorch` `TensorFlow` `LLMs`
-
-**AI Engineering:** `LangChain` `LangGraph` `RAG` `Embeddings` `Vector Databases` `AI Agents` `Prompt Engineering` `Model Inference`
-
-**View Occupation →**
+**LLMs · OpenAI · PyTorch · LangChain · LangGraph · RAG · Embeddings · Vector Databases · AI Agents · Model Inference**
 
 ---
 
 ## 07 · Cloud & DevOps
 
-### Production Infrastructure
+Taking applications from development to reliable production environments.
 
-Deploying, automating, and maintaining production systems with modern cloud infrastructure and continuous delivery practices.
-
-**Infrastructure:** `AWS` `Docker` `Kubernetes` `Nginx` `Cloudflare`
-
-**Automation:** `GitHub Actions` `CI/CD` `Containerization` `Infrastructure Automation` `Process Management` `Monitoring`
-
-**View Occupation →**
+**AWS · Docker · Kubernetes · GitHub Actions · Nginx · Cloudflare · CI/CD · PM2 · Monitoring · Deployment**
 
 ---
 
 ## 08 · Real-Time Systems
 
-### Low-Latency Communication
+Engineering low-latency systems for communication, collaboration, and live data synchronization.
 
-Engineering real-time applications, collaborative platforms, streaming systems, and synchronized distributed experiences.
+**WebRTC · WebSockets · Socket.io · Pusher · Streaming · Signaling · Real-Time Synchronization · Event-Driven Communication**
 
-**Core:** `WebRTC` `Socket.io` `WebSockets` `Pusher`
-
-**Real-Time Engineering:** `Signaling` `Data Streaming` `Real-Time Synchronization` `Presence Systems` `Event-Driven Communication` `Low-Latency Architecture`
-
-**View Occupation →**
-
----
-
-## Engineering Philosophy
+## My Philosophy
 
 > **Build it right. Scale it intelligently. Keep it maintainable.**
 
