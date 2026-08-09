@@ -5,14 +5,20 @@
 
 ### 👨‍💻 About Me
 
-I'm a results-driven **Full Stack Engineer** and **Tech Lead** with  **5 years** ( Tech Lead with 3 years  of professional full-time experience and 2 years part-time internship experience gained during my academic years ) of experience building high-performance, scalable web applications using modern technologies and microservices architecture.
+## Software Engineer | Architect
+I specialize in designing and building scalable, enterprise-grade software that transforms complex business requirements into reliable, high-performance technology solutions. My work spans software architecture, backend engineering, frontend development, cloud infrastructure, DevOps, and AI-powered applications.
 
-🔹 Specialized in Node.js, Next.js, React.js, MongoDB, and Redis  
-🔹 Experience designing and deploying **microservices** with **Docker**, **Kubernetes**, and **CI/CD** pipelines  
-🔹 Skilled in **real-time communication** using **Socket.IO**  
-🔹 Strong in backend & API architecture (REST & websocket)  
-🔹 Passionate about clean code, team leadership, and delivering impact  
-🔹 Creator of [StrivUI](https://www.npmjs.com/package/strivui) — Style UI library for React.js, compatible with SSR, SSG, and CSR 🚀 4000+ downloads
+## What I Do
+
+Architect scalable SaaS platforms, ERP, CRM, E-Commerce, Marketplace, and enterprise applications.
+Design distributed systems, microservices, REST APIs, WebSocket services, and secure authentication with RBAC.
+Build modern applications using Python (Django, FastAPI), Node.js, React.js, Next.js, React Native, and TypeScript.
+Develop AI-powered solutions using PyTorch, Transformers, LLM fine-tuning, prompt engineering, and inference optimization.
+Design and optimize cloud-native deployments with AWS, Google Cloud Platform (GCP), Docker, Linux, and CI/CD.
+Optimize PostgreSQL, MongoDB, and MySQL for performance, scalability, and reliability.
+Lead engineering teams through architecture reviews, technical planning, code reviews, mentoring, and production releases. Collaborate with founders, product teams, and business stakeholders to align technology with strategic business goals.
+
+🔹 Creator of [StrivUI](https://www.npmjs.com/package/strivui) — Style UI library for React.js, compatible with SSR, SSG, and CSR 🚀 8000+ downloads
 
 ---
 
