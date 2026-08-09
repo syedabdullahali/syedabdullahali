@@ -104,7 +104,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 -->
 # Technical Expertise
 
-## 01 · Programming
+### 01 · Programming
 
 | **Core**                             | **Engineering**                                                                    |
 | ------------------------------------ | ---------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 02 · Frontend Engineering
+### 02 · Frontend Engineering
 
 | **Core**                                    | **Ecosystem**                                                    |
 | ------------------------------------------- | ---------------------------------------------------------------- |
@@ -120,7 +120,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 03 · Backend Engineering
+### 03 · Backend Engineering
 
 | **Core**                                        | **API & Security**                            |
 | ----------------------------------------------- | --------------------------------------------- |
@@ -128,7 +128,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 04 · Data & Databases
+### 04 · Data & Databases
 
 | **Core**                                        | **Engineering**                                                        |
 | ----------------------------------------------- | ---------------------------------------------------------------------- |
@@ -136,7 +136,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 05 · System Design & Architecture
+### 05 · System Design & Architecture
 
 | **Architecture**                                                | **Engineering**                                                                               |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -144,7 +144,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 06 · AI Engineering
+### 06 · AI Engineering
 
 | **Core**                | **AI Systems**                                                                            |
 | ----------------------- | ----------------------------------------------------------------------------------------- |
@@ -152,7 +152,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 07 · Cloud & DevOps
+### 07 · Cloud & DevOps
 
 | **Infrastructure**                             | **Delivery**                                           |
 | ---------------------------------------------- | ------------------------------------------------------ |
@@ -160,7 +160,7 @@ Lead engineering teams through architecture reviews, technical planning, code re
 
 ---
 
-## 08 · Real-Time Systems
+### 08 · Real-Time Systems
 
 | **Core**                                 | **Engineering**                                                                |
 | ---------------------------------------- | ------------------------------------------------------------------------------ |
