@@ -1,10 +1,3 @@
-<!--<h1 align="center">Hi 👋, I'm Syed Abdullah Ali</h1>-->
-<h3 align="center">  Senior Software Engineer | Tech Lead
-
----
-
-### 👨‍💻 About Me
-
 ## Software Engineer | Architect
 I specialize in designing and building scalable, enterprise-grade software that transforms complex business requirements into reliable, high-performance technology solutions. My work spans software architecture, backend engineering, frontend development, cloud infrastructure, DevOps, and AI-powered applications.
 
